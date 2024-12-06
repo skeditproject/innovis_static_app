@@ -223,6 +223,14 @@ video::-webkit-media-controls {
     color: #A28655;
 }
 
+.review-img .review-profile {
+    border-radius: 50%;
+    font-size: 48px;
+    font-weight: 900;
+    padding: 0px 19px;
+    background-color: #00000010;
+}
+
 .service-card-content {
     font-size: 16px;
     height: 64px;
